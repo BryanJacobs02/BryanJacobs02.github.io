@@ -8,7 +8,7 @@
 <hr>
 
 ### [Identifying Characteristics of Suspicious Transactions Using Association Rule Mining and Time Series Anomaly Detection](https://github.com/BryanJacobs02/info523-final-project)
-div style="text-align: center;">
+<div style="text-align: center;">
   <a href="https://github.com/BryanJacobs02/info523-final-project">
     <img 
       src="assets/img/info_523_project_image.png" 
@@ -21,7 +21,7 @@ div style="text-align: center;">
 <hr>
 
 ### [Data Visualization Practice / Progression](https://github.com/BryanJacobs02/data-visualization-assignments)
-div style="text-align: center;">
+<div style="text-align: center;">
   <a href="https://github.com/BryanJacobs02/data-visualization-assignments">
     <img 
       src="assets/img/data_viz_image.png" 
