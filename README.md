@@ -16,6 +16,7 @@
       style="max-width: 750px; width: 100%; height: auto; border: 1px solid #ccc; border-radius: 10px; background-color: #f9f9f9; padding: 10px;" 
     />
   </a>
+  <figcaption style="color: #808080; font-size: 14px; margin-top: 5px;">Completed: December 2024</figcaption>
 </div>
 
 <hr>
@@ -29,4 +30,5 @@
       style="max-width: 750px; width: 100%; height: auto; border: 1px solid #ccc; border-radius: 10px; background-color: #f9f9f9; padding: 10px;" 
     />
   </a>
+  <figcaption style="color: #808080; font-size: 14px; margin-top: 5px;">Completed: November 2024</figcaption>
 </div>
