@@ -7,8 +7,8 @@
 
 <!-- Navigation Links -->
 <div style="text-align: center; margin-bottom: 20px;">
-  <a href="#python-projects" style="padding: 10px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px; margin: 5px;">Python</a>
-  <a href="#r-projects" style="padding: 10px; background-color: #2196F3; color: white; text-decoration: none; border-radius: 5px; margin: 5px;">R</a>
+  <a href="#python-projects" style="padding: 10px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px; margin: 10px;">Python</a>
+  <a href="#r-projects" style="padding: 10px; background-color: #2196F3; color: white; text-decoration: none; border-radius: 5px; margin: 10px;">R</a>
 </div>
 
 <hr style="height: 4px; border: none; background: linear-gradient(to right, #4CAF50, #2196F3); margin: 40px 0;" />
