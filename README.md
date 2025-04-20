@@ -11,7 +11,7 @@
   <a href="#r-projects" style="padding: 10px; background-color: #2196F3; color: white; text-decoration: none; border-radius: 5px; margin: 5px;">R</a>
 </div>
 
-<hr>
+<hr style="height: 4px; border: none; background: linear-gradient(to right, #4CAF50, #2196F3); margin: 40px 0;" />
 
 <!-- R Projects Section -->
 <div id="r-projects">
