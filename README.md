@@ -2,7 +2,7 @@
 
 <hr>
 
-#### If desired, select a language to jump to a section, then select a project to visit the associated GitHub repository where you'll find deliverables, code documentation, datasets, and more.
+#### Select a language to jump to a section, then select a project to visit the associated GitHub repository where you'll find deliverables, code documentation, datasets, and more.
 *Note: Projects are listed in reverse chronological order by date of completion.*
 
 <!-- Navigation Links -->
