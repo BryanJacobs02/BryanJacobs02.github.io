@@ -6,7 +6,7 @@
 *Note: Projects are listed in reverse chronological order by date of completion.*
 
 <!-- Navigation Links -->
-<div style="text-align: center; margin-bottom: 20px;">
+<div style="text-align: center; margin: 20px 0;">
   <a href="#python-projects" style="padding: 10px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px; margin: 10px;">Python</a>
   <a href="#r-projects" style="padding: 10px; background-color: #2196F3; color: white; text-decoration: none; border-radius: 5px; margin: 10px;">R</a>
 </div>
