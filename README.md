@@ -59,3 +59,22 @@
 <!-- Python Projects Section -->
 <div id="python-projects">
   <h2 style="text-align: center;">Python Projects</h2>
+
+<!-- First Project -->
+  <div style="text-align: center; margin-bottom: 30px;">
+    <h3 style="margin-bottom: 10px;">
+      <a href="https://github.com/BryanJacobs02/seasons-of-sickness" style="color: inherit; text-decoration: none;">
+        Mapping the Seasons of Sickness: Geographic and Seasonal Trends in U.S. Disease Incidence
+      </a>
+    </h3>
+    <a href="https://github.com/BryanJacobs02/seasons-of-sickness">
+      <img 
+        src="assets/img/seasons_of_sickness.png" 
+        alt="Project Image" 
+        style="max-width: 750px; width: 100%; height: auto; border: 1px solid #ccc; border-radius: 10px; background-color: #f9f9f9; padding: 10px;" 
+      />
+    </a>
+    <figcaption style="color: #808080; font-size: 14px; margin-top: 5px;">Completed: December 2024</figcaption>
+  </div>
+
+  <hr>
