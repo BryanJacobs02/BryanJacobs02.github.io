@@ -54,7 +54,7 @@
   </div>
 </div>
 
-<hr>
+<hr style="height: 4px; border: none; background: linear-gradient(to right, #4CAF50, #2196F3); margin: 40px 0;" />
 
 <!-- Python Projects Section -->
 <div id="python-projects">
