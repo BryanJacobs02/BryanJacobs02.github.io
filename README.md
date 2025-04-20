@@ -1,1 +1,4 @@
-# BryanJacobs02.github.io
+# Data Scientist
+
+### Education
+Mathematics, B.A.
