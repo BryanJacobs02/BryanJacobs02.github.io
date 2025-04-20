@@ -3,6 +3,6 @@
 Note: Projects are listed in reverse chronological order by date of completion.
 
 ## Identifying Characteristics of Suspicious Transactions Using Association Rule Mining and Time Series Anomaly Detection
-<a href="https://link-to-your-project.com">
-  <img src="path-to-your-image.jpg" alt="Project Description" />
+<a href="https://github.com/BryanJacobs02/info523-final-project">
+  <img src="assets/img/info_523_project_image.png" alt="Project Description" />
 </a>
