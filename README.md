@@ -6,8 +6,6 @@
   </a>
 </div>
 
-<hr>
-
 #### Select a project to visit the associated GitHub repository where you'll find deliverables, code documentation, datasets, and more.
 
 <hr style="border: none; height: 3px; background-color: #0366d6; margin: 40px 0;" />
