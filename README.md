@@ -105,7 +105,7 @@
     </h3>
     <a href="https://github.com/BryanJacobs02/sunyac-sports-ranking">
       <img 
-        src="assets/img/data_viz_image.png" 
+        src="assets/img/mvr_image.png" 
         alt="Project Image" 
         style="max-width: 750px; width: 100%; height: auto; border: 1px solid #ccc; border-radius: 10px; background-color: #f9f9f9; padding: 10px;" 
       />
