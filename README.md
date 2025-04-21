@@ -4,7 +4,7 @@
 
 #### Select a project to visit the associated GitHub repository where you'll find deliverables, code documentation, datasets, and more.
 
-<hr>
+<hr style="border: none; height: 3px; background-color: #0366d6; margin: 40px 0;" />
 
  <div style="text-align: center; margin-bottom: 30px;">
     <h3 style="margin-bottom: 10px;">
