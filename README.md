@@ -1,4 +1,10 @@
-# Portfolio
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <h1 style="margin: 0;">Portfolio</h1>
+  <a href="mailto:bryanj82202@gmail.com" 
+     style="padding: 8px 16px; background-color: #0366d6; color: white; text-decoration: none; border-radius: 5px; font-size: 14px;">
+    Contact Me
+  </a>
+</div>
 
 <hr>
 
