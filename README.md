@@ -57,20 +57,20 @@
 
    <div style="text-align: center; margin-bottom: 30px;">
   <h3 style="margin-bottom: 10px;">
-    <a href="https://github.com/BryanJacobs02/visualizing-the-olympics/tree/main" style="color: inherit; text-decoration: none;">
+    <a href="https://github.com/BryanJacobs02/visualizing-the-olympics" style="color: inherit; text-decoration: none;">
       Visualizing The Olympics
     </a>
   </h3>
-  <a href="https://github.com/BryanJacobs02/seasons-of-sickness">
+  <a href="https://github.com/BryanJacobs02/visualizing-the-olympics">
     <img 
-      src="assets/img/seasons_of_sickness.png" 
+      src="assets/img/olympic_image.png" 
       alt="Project Image" 
       style="max-width: 750px; width: 100%; height: auto; border: 1px solid #ccc; border-radius: 10px; background-color: #f9f9f9; padding: 10px;" 
     />
   </a>
   <figcaption style="color: #808080; font-size: 14px; margin-top: 5px;">Completed: December 2024</figcaption>
   <div style="font-size: 14px; color: #333; margin-top: 10px;">
-    <strong>Tools & Techniques:</strong> Python, VS Code (Jupyter Notebook Extension), Multivariate Logistic Regression, Geospatial Visualization, Time Series Analysis
+    <strong>Tools & Techniques:</strong> R, Quarto, Logistic Regression, Time Series Analysis, Density Plots
   </div>
 </div>
 
