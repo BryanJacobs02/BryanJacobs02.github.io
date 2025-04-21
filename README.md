@@ -6,7 +6,9 @@
   </a>
 </div>
 
-##### *Select a project to visit the associated GitHub repository where you'll find deliverables, code documentation, datasets, and more.*
+<p style="margin-top: 10px;">
+  <em>Select a project to visit the associated GitHub repository where you'll find deliverables, code documentation, datasets, and more.</em>
+</p>
 
 <hr style="border: none; height: 3px; background-color: #0366d6; margin: 30px 0;" />
 
