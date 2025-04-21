@@ -2,7 +2,7 @@
 
 <hr>
 
-#### Select a language to jump to a section, then select a project to visit the associated GitHub repository where you'll find deliverables, code documentation, datasets, and more.
+#### Select a project to visit the associated GitHub repository where you'll find deliverables, code documentation, datasets, and more.
 
 <hr style="height: 4px; border: none; background: linear-gradient(to right, #4CAF50, #2196F3); margin: 40px 0;" />
 
