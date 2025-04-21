@@ -48,6 +48,9 @@
       />
     </a>
     <figcaption style="color: #808080; font-size: 14px; margin-top: 5px;">Completed: December 2024</figcaption>
+    <div style="font-size: 14px; color: #333; margin-top: 10px;">
+    <strong>Tools & Techniques:</strong> R, R Markdown, Association Rule Mining, Time Series Anomaly Detection
+  </div>
   </div>
 
   <hr>
@@ -66,4 +69,7 @@
       />
     </a>
     <figcaption style="color: #808080; font-size: 14px; margin-top: 5px;">Completed: November 2024</figcaption>
+    <div style="font-size: 14px; color: #333; margin-top: 10px;">
+    <strong>Tools & Techniques:</strong> R, Quarto Markdown, Data Visualization/Storytelling 
+  </div>
   </div>
