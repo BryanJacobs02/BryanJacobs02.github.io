@@ -15,7 +15,7 @@
 <div style="text-align: center; margin-bottom: 30px;">
     <h3 style="margin-bottom: 10px;">
       <a href="https://github.com/BryanJacobs02/sunyac-sports-ranking" style="color: inherit; text-decoration: none;">
-        Sports Rankings Using a Minimum Violations Method
+        SQL Database Design for a Hospital System
       </a>
     </h3>
     <a href="https://github.com/BryanJacobs02/MySQL-Hospital-Data">
