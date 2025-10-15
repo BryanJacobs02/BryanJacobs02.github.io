@@ -12,6 +12,27 @@
 
 <hr style="border: none; height: 3px; background-color: #0366d6; margin: 30px 0;" />
 
+<div style="text-align: center; margin-bottom: 30px;">
+    <h3 style="margin-bottom: 10px;">
+      <a href="https://github.com/BryanJacobs02/sunyac-sports-ranking" style="color: inherit; text-decoration: none;">
+        Sports Rankings Using a Minimum Violations Method
+      </a>
+    </h3>
+    <a href="https://github.com/BryanJacobs02/MySQL-Hospital-Data">
+      <img 
+        src="assets/img/logical_model.png" 
+        alt="Project Image" 
+        style="max-width: 750px; width: 100%; height: auto; border: 1px solid #ccc; border-radius: 10px; background-color: #f9f9f9; padding: 10px;" 
+      />
+    </a>
+    <figcaption style="color: #808080; font-size: 14px; margin-top: 5px;">Completed: October 2025</figcaption>
+    <div style="font-size: 14px; color: #333; margin-top: 10px;">
+    <strong>Tools & Techniques:</strong> MySQL, ER Modeling, Database Design
+  </div>
+  </div>
+
+  <hr>
+
  <div style="text-align: center; margin-bottom: 30px;">
   <h3 style="margin-bottom: 10px;">
     <a href="https://github.com/BryanJacobs02/hpc-optimization" style="color: inherit; text-decoration: none;">
