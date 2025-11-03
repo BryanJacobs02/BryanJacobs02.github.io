@@ -20,7 +20,7 @@
   </h3>
   <a href="https://github.com/BryanJacobs02/SAS-EMR">
     <img 
-      src="assets/img/MCB_image.png" 
+      src="assets/img/means_table.png" 
       alt="Project Image" 
       style="max-width: 750px; width: 100%; height: auto; border: 1px solid #ccc; border-radius: 10px; background-color: #f9f9f9; padding: 10px;" 
     />
