@@ -14,6 +14,27 @@
 
 <div style="text-align: center; margin-bottom: 30px;">
   <h3 style="margin-bottom: 10px;">
+    <a href="https://github.com/BryanJacobs02/R-EMR" style="color: inherit; text-decoration: none;">
+      Analysis of Government Insurance Programs and Their Role in Equitable Healthcare Access
+    </a>
+  </h3>
+  <a href="https://github.com/BryanJacobs02/R-EMR">
+    <img 
+      src="assets/img/model_code.png" 
+      alt="Project Image" 
+      style="max-width: 750px; width: 100%; height: auto; border: 1px solid #ccc; border-radius: 10px; background-color: #f9f9f9; padding: 10px;" 
+    />
+  </a>
+  <figcaption style="color: #808080; font-size: 14px; margin-top: 5px;">Completed: Dec 2025</figcaption>
+  <div style="font-size: 14px; color: #333; margin-top: 10px;">
+    <strong>Tools & Techniques:</strong> R, EHR Data, Poisson Regression, Statistical Analysis
+  </div>
+</div>
+
+<hr>
+
+<div style="text-align: center; margin-bottom: 30px;">
+  <h3 style="margin-bottom: 10px;">
     <a href="https://github.com/BryanJacobs02/SAS-EMR" style="color: inherit; text-decoration: none;">
       SAS-based Analysis of Hospital Length of Stay Across Insurance Groups
     </a>
